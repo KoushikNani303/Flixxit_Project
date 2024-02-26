@@ -1,6 +1,5 @@
 Flixxit :
-This project is a Amazon Prime Clone. You can run the below commands to see the project on your local system. 
-Hosted on Firebase at https://prime-clone-2fcfe.web.app/
+Flixxit aims to be a web application with the likeness and basic feature set ot OTT platforms such as Prime Video, Netflix and AppleTV+.
 
 Technologies :
 1. ReactJS
